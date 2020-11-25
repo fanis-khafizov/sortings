@@ -6,6 +6,7 @@
 #define SORTINGS_DATA_H
 
 #include <string>
+#include <iostream>
 
 class Data {
 private:
@@ -25,6 +26,8 @@ public:
     bool operator<=(Data &info);
     bool operator==(Data &info);
     bool operator!=(Data &info);
+    std::string get_city();
+    friend std::ostream& operator<<(std::ostream& out, const Data& data);
 };
 
 

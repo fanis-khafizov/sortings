@@ -19,13 +19,15 @@ Data::~Data(){};
 
 bool Data::operator>(Data &info) {
     if (Year != info.Year) return Year > info.Year;
-    else if (Points != info.Points) return Points > info.Points;
+    else if (Country != info.Country) return Country > info.Country;
+    else if (Points != info.Points) return Points < info.Points;
     else return ClubName > info.ClubName;
 }
 
 bool Data::operator<(Data &info) {
     if (Year != info.Year) return Year < info.Year;
-    else if (Points != info.Points) return Points < info.Points;
+    else if (Country != info.Country) return Country < info.Country;
+    else if (Points != info.Points) return Points > info.Points;
     else return ClubName < info.ClubName;
 }
 
@@ -43,4 +45,12 @@ bool Data::operator==(Data &info) {
 
 bool Data::operator!=(Data &info) {
     return !(*this == info);
+}
+std::ostream &operator<<(std::ostream &out, const Data &data) {
+    out << data.Country << ' ' << data.ClubName << ' ' << data.City << ' ' << data.Year << ' ' << data.Coach << ' ' << data.Points;
+    return out;
+}
+
+std::string Data::get_city() {
+    return City;
 }

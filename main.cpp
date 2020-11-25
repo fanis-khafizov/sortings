@@ -1,25 +1,42 @@
 #include <iostream>
+#include <ctime>
 #include <vector>
-#include "Data.h"
-#include "sortings.cpp"
-#include <cstdlib>
+#include <fstream>
+#include "DataArray.h"
+#include <algorithm>
+
 int main() {
-    /*
-    Data d1("1", "1", "1", 1, "1", 1);
-    Data d2("2", "2", "2", 2, "2", 2);
-    std::cout << (d1 > d2) << std::endl;
-    std::cout << (d1 < d2) << std::endl;
-    */
-    std::vector<int*> v(10);
-    int arr[v.size()];
-    for (int i = 0; i < v.size(); i++) {
-        arr[v.size() - i - 1] = rand() % 100;
-        v[i] = &arr[i];
+    setlocale(LC_ALL, "Russian");
+    std::string path = "/home/fanis/CLionProjects/sortings/";
+    std::vector<std::string> file_names = {"data100.txt", "data500.txt", "data1000.txt",
+                                           "data5000.txt", "data10000.txt", "data20000.txt",
+                                           "data50000.txt", "data100000.txt", "data200000.txt",
+                                           "data500000.txt"};
+    std::string output_file = "/home/fanis/CLionProjects/sortings/output.txt";
+    std::ofstream fout(output_file);
+    unsigned long long start, finish;
+    DataArray *data;
+    for (auto file: file_names) {
+        data = new DataArray(path + file);
+        start = clock();
+        data->shaker_sort();
+        finish = clock();
+        fout << finish - start << ';';
+        delete data;
+
+        data = new DataArray(path + file);
+        start = clock();
+        data->heap_sort();
+        finish = clock();
+        fout << finish - start << ';';
+        delete data;
+
+        data = new DataArray(path + file);
+        start = clock();
+        data->quick_sort();
+        finish = clock();
+        fout << finish - start << std::endl;
+        delete data;
     }
-    for (int i = 0; i < v.size(); i++) std::cout << *v[i] << ' ';
-    std::cout << std::endl;
-    QuickSort(v);
-    for (int i = 0; i < v.size(); i++) std::cout << *v[i] << ' ';
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }

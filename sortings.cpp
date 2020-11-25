@@ -3,7 +3,6 @@
 //
 #include <vector>
 #include <iostream>
-
 template<typename T>
 
 void ShakerSort(std::vector<T*>& data) {
@@ -63,7 +62,7 @@ void HeapSort(std::vector<T*>& data) {
     }
 }
 
-template <typename T>
+template<typename T>
 
 void QSort(std::vector<T*>& data, int low, int high) {
     if (low >= high) return;
@@ -86,7 +85,7 @@ void QSort(std::vector<T*>& data, int low, int high) {
     QSort(data, left + 1,  high);
 }
 
-template <typename T>
+template<class T>
 
 void QuickSort(std::vector<T*>& data) {
     QSort(data, 0, data.size() - 1);

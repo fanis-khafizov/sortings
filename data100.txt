@@ -1,0 +1,103 @@
+Тувалу;Kirikhan FC;Kirikhan;2018;Владен Филинченко;64
+Ангола;Sergiyev Posad Club;Sergiyev Posad;2000;Чекун Мазанин;94
+Сент-Люсия;Kaiyuan Football Club;Kaiyuan;1982;Утамеш Хавинсон;82
+Босния и Герцеговина;Manchester FC;Manchester;2017;Асида Никитчик;15
+Объединённые Арабские Эмираты;Villa Nueva Club;Villa Nueva;1963;Арзубика Красиковская;9
+Экваториальная Гвинея;Glyfada Football Club;Glyfada;1972;Эванус Витоженц;10
+Сомали;Ouarzazat FC;Ouarzazat;2020;Рихани Пипикин;59
+Нигер;Reading Club;Reading;2013;Астсфий Хандар;8
+Малави;Santutxu Football Club;Santutxu;1979;Дюха Кирейчук;17
+Куба;Anantapur FC;Anantapur;1991;Елистрах Ботенков;73
+Малайзия;Magadan Club;Magadan;1984;Аданин Кустылкин;86
+Гондурас;Macon Football Club;Macon;2003;Торник Соляной;75
+Мозамбик;Nagarpur FC;Nagarpur;2011;Закро Паденков;28
+Сент-Китс и Невис;Lubumbashi Club;Lubumbashi;2009;Солвия Удрас;69
+Израиль;Gwalior Football Club;Gwalior;2004;Эмилио Ганиулина;42
+Эквадор;Munich FC;Munich;1987;Поляна Алтынов;47
+Коста-Рика;M'Sila Club;M'Sila;1993;Джалали Жулькова;93
+Эритрея;Parintins Football Club;Parintins;1973;Сайдар Княгичев;80
+Монако;Worthing FC;Worthing;2007;Аннман Токбаев;68
+Австралия;Formosa Club;Formosa;2016;Пассик Стальгоров;83
+Чад;Kanchanaburi Football Club;Kanchanaburi;1980;Алимджан Алькина;11
+Сент-Винсент и Гренадины;Corrientes FC;Corrientes;1960;Миирим Скать;1
+Сан-Марино;Tabuk Club;Tabuk;1981;Клифтон Шаверов;67
+Сьерра-Леоне;Aligarh Football Club;Aligarh;1971;Стрезимира Осипков;40
+Ботсвана;Saint-Paul FC;Saint-Paul;1978;Хлорис Коцюс;77
+Россия;Tyler Club;Tyler;1974;Кэлвен Сантагарев;65
+Габон;Navojoa Football Club;Navojoa;1988;Виарина Косцова;62
+Афганистан;Semporna FC;Semporna;2005;Мирдат Малейкина;70
+Грузия;Kribi Club;Kribi;1967;Полодимир Домошеева;24
+Сенегал;San Cristobal Football Club;San Cristobal;1969;Дельфила Вольвачев;96
+Турция;Kakamega FC;Kakamega;2008;Сайва Байкузина;23
+Бахрейн;Zhangjiakou Club;Zhangjiakou;1962;Акчачак Давывдов;45
+Бельгия;Rudnyy Football Club;Rudnyy;2015;Арел Забин;92
+Бутан;Manzanillo FC;Manzanillo;2006;Назипа Сармаева;29
+Чехия;Ra'anana Club;Ra'anana;2001;Зебедия Заварзина;60
+Люксембург;Apodaca Football Club;Apodaca;1994;Зайда Осередко;4
+Андорра;Guaynabo FC;Guaynabo;1975;Бойер Эртуева;99
+Монголия;Pasragad Branch Club;Pasragad Branch;1977;Никазий Сарайникова;16
+Иордания;Madiun Football Club;Madiun;1997;Нибзаг Игнатьевский;85
+Индия;Lozova FC;Lozova;1990;Айбика Саломин;18
+Финляндия;Lipetsk Club;Lipetsk;2010;Ихтида Ромулов;22
+Мальдивы;Ceuta Football Club;Ceuta;1968;Дунямалы Абидаева;37
+Белоруссия;Aleksin FC;Aleksin;1965;Дорияна Мыслин;56
+Казахстан;Kokshetau Club;Kokshetau;2012;Айварс Головяшина;79
+Зимбабве;Najin Football Club;Najin;2019;Парнелл Табачникова;36
+Египет;Bhiwani FC;Bhiwani;2014;Олдама Стремяков;78
+Словения;Vidisha Club;Vidisha;1985;Баркер Данкина;33
+Украина;Kombolcha Football Club;Kombolcha;1986;Фэйшн Статиев;88
+Португалия;Douma FC;Douma;1964;Мурсила Сендишвили;50
+Колумбия;Bender Club;Bender;1998;Эби Пахнова;5
+Соломоновы Острова;Kolda Football Club;Kolda;1961;Мильтон Кашубская;19
+Франция;Kropotkin FC;Kropotkin;1992;Денница Хадисов;58
+Камбоджа;Coconut Creek Club;Coconut Creek;2002;Хуштаймас Кекина;12
+Болгария;San Pedro Football Club;San Pedro;1983;Бури Яровцева;97
+Кения;Moscow FC;Moscow;1999;Фома Яремкевич;27
+Федеративные Штаты Микронезии;Lijiang Club;Lijiang;1976;Иванис Домосканов;53
+Перу;Malaga Football Club;Malaga;1996;Олимпия Тимофеев;26
+Кабо-Верде;Sofia FC;Sofia;1970;Габде Вичуржинская;21
+Уганда;Mwanza Club;Mwanza;1989;Базарбай Лангер;71
+Кот-д’Ивуар;Lowell Football Club;Lowell;1966;Декий Жевакин;57
+Исландия;Shuangyashan FC;Shuangyashan;1995;Астурия Слипый;7
+Суринам;Lauro de Freitas Club;Lauro de Freitas;2018;Целия Кагановский;46
+Швеция;Onitsha Football Club;Onitsha;2000;Абдуселим Урданг;54
+Ирак;Coquitlam FC;Coquitlam;1982;Анико Люлей;52
+Бенин;Sagaing Club;Sagaing;2017;Ведедим Вандорова;51
+Венесуэла;Shibin al Kawm Football Club;Shibin al Kawm;1963;Бут Казмирчук;55
+Иран;Markala FC;Markala;1972;Мобли Володимова;25
+Парагвай;Sirsa Club;Sirsa;2020;Клинт Маркаков;31
+Мавритания;Norwalk Football Club;Norwalk;2013;Паулита Лавшевская;44
+Багамские Острова;Jega FC;Jega;1979;Назгуль Шниперов;20
+Камерун;Swietochlowice Club;Swietochlowice;1991;Милютина Кубынин;6
+Марокко;Hereford Football Club;Hereford;1984;Нувия Гармонов;95
+Бразилия;Brest FC;Brest;2003;Синдик Сторонкин;89
+Йемен;Sagay Club;Sagay;2011;Рагида Темиш;74
+Республика Гаити;Tando Adam Football Club;Tando Adam;2009;Людя Шахтин;48
+Мьянма;Eregli FC;Eregli;2004;Евноя Завязкина;43
+Уругвай;Littlehampton Club;Littlehampton;1987;Радиала Дубровец;91
+Сальвадор;Santa Tecla Football Club;Santa Tecla;1993;Атом Ахунзянова;14
+Азербайджан;Kettering FC;Kettering;1973;Ауреля Швейцер;87
+Бурунди;Shahr-e Babak Club;Shahr-e Babak;2007;Маули Лежнетев;72
+Республика Конго;Hull Football Club;Hull;2016;Гафир Лакунина;81
+Непал;Pensacola FC;Pensacola;1980;Инарс Меняйло;0
+Канада;Chengalpattu Club;Chengalpattu;1960;Ляйла Минушашвили;35
+Польша;Marseille 14 Football Club;Marseille 14;1981;Гурляр Клндраков;34
+Тринидад и Тобаго;Rafsanjan FC;Rafsanjan;1971;Вильма Халушаков;41
+Нигерия;Metairie Club;Metairie;1978;Навиг Посеренина;38
+Того;Tiraspolul Football Club;Tiraspolul;1974;Питим Абубакаров;13
+Швейцария;Warrington FC;Warrington;1988;Епистиния Агапкина-Зенкина;84
+Испания;Masina Club;Masina;2005;Кэшоун Кудрявецкий;39
+Коморы;Luimneach Football Club;Luimneach;1967;Лойд Бурдуковский;3
+Нидерланды;Shahjanpur FC;Shahjanpur;1969;Аистан Феактистов;61
+Панама;Bissau Club;Bissau;2008;Тхасоу Красавченко;63
+Гайана;Runing Football Club;Runing;1962;Ревелена Стушкин;66
+Мальта;Cardenas FC;Cardenas;2015;Элизавета Махарева;2
+Мали;Union City Club;Union City;2006;Нордун Гризова;30
+Чили;Ban Rangsit Football Club;Ban Rangsit;2001;Рианда Курузиков;98
+Намибия;Venado Tuerto FC;Venado Tuerto;1994;Нажия Андропов;90
+Румыния;Saltillo Club;Saltillo;1977;Рэйчел Чипкаленко;60
+Латвия;Luhansk Football Club;Luhansk;1966;Рейлли Чертовиков;48
+Йемен;Bondowoso FC;Bondowoso;1987;Мунавар Полудольный;90
+Катар;Agboville Club;Agboville;1975;Митис Гочергина;76
+Восточный Тимор;Barka' Football Club;Barka';1977;Майон Гороховодацкая;32
+Джибути;Thunder Bay FC;Thunder Bay;1997;Шахрениса Волочко;49
